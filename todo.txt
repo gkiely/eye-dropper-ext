@@ -1,0 +1,4 @@
+- Enable picker by default on click
+  - User can still pick their past colors and will save a click
+  - Could also be an option 
+- Handle dark mode
